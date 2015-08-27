@@ -24,7 +24,7 @@ public class Assignment {
 	private static HashMap<String,textDetails> impStrings = new HashMap<String,textDetails>();
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("BrightEdge Assignment\n----------------------");
+		System.out.println("Webpage Classifier\n----------------------");
 		
 		if(args.length != 1) {
 			System.out.println("Incorrect number of arguments.\nProvide only URL.!!");
